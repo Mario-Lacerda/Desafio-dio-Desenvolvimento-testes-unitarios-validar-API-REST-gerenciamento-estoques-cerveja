@@ -1,6 +1,6 @@
 ##                                      **DESAFIO DIO** 
 
-## Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja-Java
+## Desenvolvimento de Testes Unitários para validar uma API REST de Gerenciamento de Estoques de Cerveja-Java
 
 
 
